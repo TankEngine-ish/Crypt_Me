@@ -1,3 +1,4 @@
+// encrypt package consists of all the logic to encrypt an input string.
 package encrypt
 
 func Plumbus(str string) string {
